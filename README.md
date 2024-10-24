@@ -7,8 +7,8 @@ I'm Rudra Sarkar(Java Backend Developer). I like problem solving, developing ind
 * B.Sc. Graduate in **Computer Science & Engineering**, from [Rajshahi University of Engineering & Techonology](https://www.ruet.ac.bd/).
 * Currently working on [Testsprint360.com](https://testsprint360.com) project as backend developer. 
 * Interested in **Web Development/System Design/Web Service/Algorithm/Machine Learning**.
-* Get my Academic CV [here](#https://github.com/rds8rds/rds8rds/blob/main/Rudra_Academic_cv.pdf). 
-* Visit my Academic portfolio site [here](#/https://rds8rds.github.io/).
+* Get my Academic CV [here](/rds8rds/blob/main/Rudra_Academic_cv.pdf). 
+* Visit my Academic portfolio site [here](https://rds8rds.github.io/).
 
 
 ### Skills
